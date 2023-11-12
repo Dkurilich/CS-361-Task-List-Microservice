@@ -14,13 +14,17 @@ The tasks.csv file will not be modified in any way by this microservice.
 An example is shown as follows below. The microservice receives the following from the tasks.txt file
 
 Laundry,11-01-2023,9,7
+
 Dishes,11-01-2023,6,5
+
 Vacuuming,11-12-2023,10,10
 
 The prioritized_task list will then return the following (if today's date is 2023-11-12:
 
 10.0,Vacuuming
+
 7.3,Laundry
+
 5.7,Dishes
 
 
