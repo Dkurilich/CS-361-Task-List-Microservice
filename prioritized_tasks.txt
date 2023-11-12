@@ -1,0 +1,3 @@
+10.0,Vacuuming
+7.3,Laundry
+5.7,Dishes
