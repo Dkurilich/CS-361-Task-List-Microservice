@@ -28,6 +28,9 @@ The prioritized_task list will then return the following (if today's date is 202
 5.7,Dishes
 
 
+
+
+
 UML Sequence Diagram
 
 ![image](https://github.com/Dkurilich/CS-361-Task-List-Microservice/assets/114198332/591a3944-f47f-4ef1-b040-ac0dba445a4c)
