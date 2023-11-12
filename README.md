@@ -1,4 +1,6 @@
-Communication Contract
+Task List Microservice
+
+
 In order to leverage this microservice, two .csv files must be in the program folder directory; tasks.csv
 and prioritized_tasks.csv.
 This microservice will always be running in the background. When the tasks.csv is filled with a list of tasks, the
@@ -20,4 +22,12 @@ The prioritized_task list will then return the following (if today's date is 202
 10.0,Vacuuming
 7.3,Laundry
 5.7,Dishes
+
+
+UML Sequence Diagram
+
+
+
+
+
 
